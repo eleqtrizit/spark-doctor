@@ -8,4 +8,5 @@ dist/
 build/
 *.egg
 .coverage
+.pi/
 SESSION_NOTES.txt

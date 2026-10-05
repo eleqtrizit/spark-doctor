@@ -17,13 +17,13 @@ Spark Doctor collects those signals in one command, applies DGX Spark-specific r
 ## Install
 
 ```bash
-uv tool install git+https://github.com/eleqtrizit/spark-doctor
+uv tool install git+https://github.com/joeynyc/spark-doctor
 ```
 
 Or from a local clone:
 
 ```bash
-git clone https://github.com/eleqtrizit/spark-doctor.git && cd spark-doctor
+git clone https://github.com/joeynyc/spark-doctor.git && cd spark-doctor
 python3 -m venv .venv && source .venv/bin/activate
 pip install -e .
 ```

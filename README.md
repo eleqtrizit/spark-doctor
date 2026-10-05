@@ -20,12 +20,6 @@ Spark Doctor collects those signals in one command, applies DGX Spark-specific r
 uv tool install git+https://github.com/eleqtrizit/spark-doctor
 ```
 
-Or with pip:
-
-```bash
-pip install git+https://github.com/eleqtrizit/spark-doctor
-```
-
 Or from a local clone:
 
 ```bash
